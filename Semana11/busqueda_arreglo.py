@@ -9,9 +9,9 @@ def buscar_valor(matriz, valor):
 
 # Matriz 
 matriz = [
-    [5, 8, 3],
-    [4, 1, 7],
-    [9, 6, 2]
+    [4, 6, 2],
+    [8, 3, 1],
+    [7, 9, 5]
 ]
 
 print("\nPROGRAMA 1")
